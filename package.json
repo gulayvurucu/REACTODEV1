@@ -1,0 +1,22 @@
+{
+  "name": "reactodev1",
+  "version": "1.0.0",
+  "description": "async-await yapıları ve axios-fetch yapıları",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gulayvurucu/REACTODEV1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gulayvurucu/REACTODEV1/issues"
+  },
+  "homepage": "https://github.com/gulayvurucu/REACTODEV1#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
